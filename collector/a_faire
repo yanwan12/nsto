@@ -1,0 +1,14 @@
+// Sortie hibernate
+// Gestion des alarmes
+// Gestion des descriptors
+// Voie descendante
+// Maj appli (collector)
+// FTP
+// SSL
+// Pwd securise sans p= dans appel http
+// descripteur par defaut
+// Gestion de server error pour les mesures
+// Sauvegarde sur disque des mesures à la fin
+// Demarrage sur collector quand raspberry demmarre
+// rf comme logger
+// Gerer quand on enleve la clef
